@@ -81,7 +81,6 @@ We plan to release the open-source extension under Apache 2.0, preserving
 Cisco's upstream attribution and applicable notices. Third-party components
 remain subject to their respective licenses.
 
-
 ## Build with us
 
 We welcome researchers, developers, families, cities, and conservation partners
