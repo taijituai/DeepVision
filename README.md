@@ -77,13 +77,9 @@ evaluation in the actual operating environment are essential.
 
 Cisco's upstream repository is licensed under
 [Apache 2.0](https://github.com/cisco-open/DeepVision/blob/main/LICENSE).
-We plan to release our open-source extension under Apache 2.0, preserving
-applicable upstream attribution, license terms, notices, and modification
-records.
-
-Dependencies, model weights, datasets, and demonstration media must be assessed
-under their own terms before inclusion. This project overview is not a
-completed release or licensing audit.
+We plan to release the open-source extension under Apache 2.0, preserving
+Cisco's upstream attribution and applicable notices. Third-party components
+remain subject to their respective licenses.
 
 ## Build with us
 
